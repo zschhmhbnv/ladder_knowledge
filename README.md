@@ -9,7 +9,7 @@
 
 > **入口更新：** 本页每天定时检查推荐链接的访问情况，并核对官方公布的入口。如遇域名更换或链接失效，会及时更新，尽量减少旧地址打不开、找不到新入口的麻烦。可以收藏本页，方便下次查找。
 
-## 一、[魔戒](https://74.82.196.10:8000/register?aff=1pWspTHg)：流量不清零，不限使用时间
+## 一、[魔戒1](https://74.82.196.10:8000/register?aff=1pWspTHg#tt)  &ensp;  [魔戒2](https://47.112.97.173:8000/register?aff=1pWspTHg#tt) ：流量不清零，不限使用时间
 
 **魔戒**适合不想被月度有效期催着用的人。它的套餐没有到期时间，按流量计算；后续再购买的流量也会自动加到总量里，剩余流量可以继续用。
 
@@ -37,9 +37,8 @@
 
 如果只是想先试试，¥1 的 1GB 体验档是最省事的起点。实际连接一遍，比单看介绍更容易判断是否适合自己；确定之后，再按用量换大档位。
 
-👉 **[查看流量不清零机场套餐与详情](https://74.82.196.10:8000/register?aff=1pWspTHg)**
 
-## 二、[V2free](https://w1.soxo.top/auth/register?code=QKu7)：100+ 节点，多地区与多倍率线路可选
+## 二、[v2free1](https://w1.soxo.top/auth/register?code=QKu7#tt) &ensp; [v2free2](https://w2.xmoney.top/auth/register?code=QKu7#tt) &ensp; [v2free3](https://w1.xmoney.top/auth/register?code=QKu7#tt)  &ensp; [v2free4](https://cdn.xmoney.top/auth/register?code=QKu7#tt) ：100+ 节点，多地区与多倍率线路可选
 
 如果你挑机场时习惯先看节点列表，**V2free**值得单独看一眼。节点页去掉桌面端和移动端的重复项后，共有 **185 个不同节点条目，其中 6 个为免费节点**。不过，这些节点分属不同等级，购买前要对照套餐权限，不能把“节点多”理解成“所有套餐都能用全部节点”。
 
